@@ -3,11 +3,11 @@ Positive Pathways was an open innovation challenge to develop a tech-centered so
 
 The three main features of the app are: **a social media feed, bounty/cosmetics screen, and lastly the user's story collection screen**.
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/winstonshin3/Positive-Thoughts/assets/115049139/28299c27-22e5-4b1a-9712-ff54c51d6d29" alt="Screenshot_20230611-133601_Expo Go" width="200"/>
   <img src="https://github.com/winstonshin3/Positive-Thoughts/assets/115049139/f11f28c2-32bc-47cd-9653-41794ff7db07" alt="Screenshot_20230611-133558_Expo Go" width="200"/>
   <img src="https://github.com/winstonshin3/Positive-Thoughts/assets/115049139/ef057f6b-1576-4da1-b4e5-4a3f00220ba6" alt="Screenshot_20230611-133608_Expo Go" width="200"/>
-</div>
+</p>
 
 
 ## The Solution and The Ecosystem
