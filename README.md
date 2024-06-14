@@ -13,7 +13,7 @@ The three main features of the app are: **the bounty/comestic store screen, a so
 ## The Solution and The Ecosystem
 By no means did I reinvent the wheel. Afterall, from an expert's glance, this may even seem like the typical cookiecutter app developed by a similar naive student like myself. However, what I'd like to highlight in this app is the novelty of how the features of this app collaborate with each other to create what I'd dubbed the *exponential growth*.
 
-As an ex-crisis line volunteer, I found that sharing stories whether it be by telling them or even writing them down, it helps the authors to organize their thoughts and feelings. Often times, this simple act was enough to regain stability in one's situation. So this app aims to foster the habit of journaling and encourage it by addressing writer's block. Should a user hit writer's block, there is a button they can click to generate three suggestions on how they could continue their current story (OpenAI). 
+As an ex-crisis line volunteer, I found that sharing stories whether it be by telling them or even writing them down, it helped the authors to organize their thoughts and feelings. Often times, this simple act was enough to regain stability in one's situation. So this app aims to foster the habit of journaling and encourage it by addressing writer's block. Should a user hit writer's block, there is a button they can click to generate three suggestions on how they could continue their current story (OpenAI). 
 
 <p align="center">
   <img src="https://github.com/winstonshin3/Positive-Thoughts/assets/115049139/cc2730e6-d7b9-4186-aa8c-ff3a24eb3b88" alt="Screenshot_20230611-133642_Expo Go" width="250"/>
