@@ -1,5 +1,5 @@
 ## Background
-Positive Pathways was an open innovation challenge to develop a tech-centered solution that supports Indigenous youth who are struggling with mental health issues. As a solution, I proposed a social media app that aims to foster deeper connections amongst Indigenous and non-Indigenous youths by sharing stories!
+Positive Pathways was an open innovation challenge hosted by Technation to develop a tech-centered solution that supports Indigenous youth who are struggling with mental health issues. As a solution, I proposed a social media app that aims to foster deeper connections amongst Indigenous and non-Indigenous youths by sharing stories!
 
 The three main features of the app are: **the bounty/comestic store screen, a social media feed, and the user's story collection screen**.
 
