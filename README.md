@@ -22,4 +22,4 @@ As an ex-crisis line volunteer, I found that sharing stories whether it be by te
 
 To somewhat guide the stories users write, I also incorporated prompts (which I call bounties) in the app store. If the user writes stories which matches any of those prompts (evaluated roughly by OpenAI chatbots) they would be awarded in-app currency. This in-app currency can then be spent to generate more suggestions in the next story they write. The more stories users write, the more in-app currency they would earn. When they have more in-app currency, they could buy more suggestions, and with more suggestions the more stories they can write; *exponential growth*. 
 
-To also create a community sense, users can also choose to share their stories in public forums with hashtags! Additionally, users can choose to spend their in-app currency on cosmetics to personalize the app to their liking.
+To also create a community sense, users can also choose to share their stories in the public feed with hashtags! Additionally, users can choose to spend their in-app currency on cosmetics to personalize the app to their liking.
